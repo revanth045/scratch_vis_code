@@ -17,7 +17,3 @@ export const looksComponents = [
   "SHOW",
   "HIDE",
 ];
-
-export const eventsComponents = ["BROADCAST"];
-
-export const controlComponents = ["WAIT", "REPEAT"];
